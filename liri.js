@@ -61,14 +61,14 @@ function spotifyThis(lookThisUp) {
 
             // Do something with 'data'
 
-            var responseData = "\nArtist(s): " + artist + "\nSong Title: " + song.name + "\nPreview URL: " + song.preview_url + "\nAlbum: " + song.album.name
+            var results = "\nArtist(s): " + artist + "\nSong Title: " + song.name + "\nPreview URL: " + song.preview_url + "\nAlbum: " + song.album.name
         console.log(results);
-        logAction("spotify-this-song", lookThisUp, responseData);
+        logAction("spotify-this-song", lookThisUp, );
     }).catch(error => {
         console.log("Something went wrong\n" + error)
     })
 }
-    
+
 
 //getSpotifyTrack();
 
@@ -90,5 +90,7 @@ function concertThis(lookThisUp) {
 
 
             }
+
+            
 
 // getBands("Post Malone");
