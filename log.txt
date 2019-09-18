@@ -1,0 +1,55 @@
+concert-this: post
+
+Venue Name: Aggie Theatre
+Venue Location: Fort Collins, CO, United States
+Event Date: 09/28/2019
+
+
+
+spotify-this-song: holocene
+
+Artist(s): Bon Iver
+Song Title: Holocene
+Preview URL: https://p.scdn.co/mp3-preview/a07bbe36e9ce8fc15114becac8876d3a20517cf2?cid=d67f654cae514e9eacd78d0870461460
+Album: Bon Iver
+
+spotify-this-song: I
+
+Artist(s): Lizzo
+Song Title: Truth Hurts
+Preview URL: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=d67f654cae514e9eacd78d0870461460
+Album: Cuz I Love You (Deluxe)
+
+spotify-this-song: Cuz
+
+Artist(s): Lizzo
+Song Title: Truth Hurts
+Preview URL: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=d67f654cae514e9eacd78d0870461460
+Album: Cuz I Love You (Deluxe)
+
+concert-this: post
+
+Venue Name: Aggie Theatre
+Venue Location: Fort Collins, CO, United States
+Event Date: 09/28/2019
+
+
+
+movie-this: hustler
+
+Movie Title: The Hustler
+Year Released: 25 Sep 1961
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 98%
+Produced in: USA
+Language: English
+Plot: An up-and-coming pool player plays a long-time champion in a single high-stakes match.
+Starring: Paul Newman, Jackie Gleason, Piper Laurie, George C. Scott
+
+spotify-this-song: dip
+
+Artist(s): Tyga & Nicki Minaj
+Song Title: Dip (feat. Nicki Minaj)
+Preview URL: https://p.scdn.co/mp3-preview/dc2890abb7faa426872c79ade0d7b17b1bea7032?cid=d67f654cae514e9eacd78d0870461460
+Album: Dip (feat. Nicki Minaj)
+
