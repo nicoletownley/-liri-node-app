@@ -26,7 +26,7 @@ function searchStuff() {
             movieThis(lookThisUp);
             break;
         case "do-what-it-says":
-            doWhatItSays(lookThisUp);
+            doWhatItSays();
             break;
     }
 }
@@ -100,7 +100,7 @@ function movieThis(lookThisUp) {
     if (!lookThisUp) {
         lookThisUp = "Mr. Nobody";
     }
-    axios.get("http://www.omdbapi.com/?t=" + lookThisUp + "&y=&plot=short&apikey=99214296").then(response => {
+    axios.get("http://www.omdbapi.com/?t=" + lookThisUp + "&y=&plot=short&apikey=9d841dc7").then(response => {
         var movie = response.data
         var ratings = movie.Ratings;
         var rtRating = "No data provided";
@@ -135,10 +135,11 @@ function movieThis(lookThisUp) {
             console.log(error.config);
         });
 }
-
 function doWhatItSays() {
     fs.readFile("random.txt", "utf-8", (error, data) => {
-        var contents = data.split(",");
+        console.log(data);
+        let contents = data.split(",");
+        console.log(contents);
         if (error) throw console.log("Could not perform the random action!\n" + error);
         if (contents[0] === "concert-this") {
             concertThis(contents[1]);
@@ -149,6 +150,7 @@ function doWhatItSays() {
         }
     })
 }
+
 
 function logAction(inputStuff, lookThisUp, results) {
     fs.appendFile("log.txt", inputStuff + ": " + lookThisUp + "\n" + results + "\n\n", "utf8", (err) => {

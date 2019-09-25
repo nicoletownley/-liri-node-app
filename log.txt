@@ -53,3 +53,79 @@ Song Title: Dip (feat. Nicki Minaj)
 Preview URL: https://p.scdn.co/mp3-preview/dc2890abb7faa426872c79ade0d7b17b1bea7032?cid=d67f654cae514e9eacd78d0870461460
 Album: Dip (feat. Nicki Minaj)
 
+concert-this: post
+
+Venue Name: Aggie Theatre
+Venue Location: Fort Collins, CO, United States
+Event Date: 09/28/2019
+
+
+
+spotify-this-song: cuz
+
+Artist(s): Lizzo
+Song Title: Truth Hurts
+Preview URL: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=d67f654cae514e9eacd78d0870461460
+Album: Cuz I Love You (Deluxe)
+
+movie-this: hustler
+
+Movie Title: The Hustler
+Year Released: 25 Sep 1961
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 98%
+Produced in: USA
+Language: English
+Plot: An up-and-coming pool player plays a long-time champion in a single high-stakes match.
+Starring: Paul Newman, Jackie Gleason, Piper Laurie, George C. Scott
+
+spotify-this-song:  I can't make you love me
+
+
+Artist(s): Bonnie Raitt
+Song Title: I Can't Make You Love Me
+Preview URL: null
+Album: Luck Of The Draw
+
+concert-this: post
+
+Venue Name: Aggie Theatre
+Venue Location: Fort Collins, CO, United States
+Event Date: 09/28/2019
+
+
+
+concert-this: post
+
+Venue Name: Aggie Theatre
+Venue Location: Fort Collins, CO, United States
+Event Date: 09/28/2019
+
+
+
+spotify-this-song: cuz
+
+Artist(s): Lizzo
+Song Title: Truth Hurts
+Preview URL: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=d67f654cae514e9eacd78d0870461460
+Album: Cuz I Love You (Deluxe)
+
+movie-this: Mr. Nobody
+
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 66%
+Produced in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Starring: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+spotify-this-song:  I can't make you love me
+
+
+Artist(s): Bonnie Raitt
+Song Title: I Can't Make You Love Me
+Preview URL: null
+Album: Luck Of The Draw
+
