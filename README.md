@@ -24,7 +24,8 @@ node liri.js do-what-it-says
 
         
 Sreenshots, gifs or videos of the app functioning - ,
-A screenshot showing all of the above commands working can be found at: liri-node-app/screenshotLiriWorking.png
+A screenshot showing all of the above commands working can be found at: liri-node-app/screenshotLiriWorking.png or
+https://github.com/nicoletownley/liri-node-app/blob/master/screenshotLiriWorking.png
 
 Following is a link snipet that was produced by the Spotify search:
 
